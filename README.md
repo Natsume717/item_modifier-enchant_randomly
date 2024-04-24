@@ -1,8 +1,7 @@
 # item_modifier-enchant_randomly
 item_modifierの1項目であるenchant_randomlyのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】enchant_randomlyでエンチャント付与【item_modifier】](https://natsumake.com/item_modifier-enchant_randomly/)』を参考にしてください。
 
 <h3>概要</h3>
 enchant_randomlyを指示することで、ランダムにエンチャントを付与することが出来ます。<br>
